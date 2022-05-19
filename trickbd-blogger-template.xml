@@ -86,6 +86,12 @@ display: flex;
 justify-content: center;
 }
 }
+.main_content blockquote {
+    margin: 10px;
+    border: 2px solid #7446e8;
+    border-left-width: 6px;
+    padding: 5px;
+}
 ]]></b:skin>
 
     <b:if cond='data:view.isLayoutMode'>
