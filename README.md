@@ -14,7 +14,7 @@ Demo link: https://trickbd-template.blogspot.com/
     <a href="https://www.instagram.com/AlSayeedAR">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://t.me/AstarSayeed">
+    <a href="https://t.me/AlSayeedAR">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     <a href="https://wa.me/8801868188006">
